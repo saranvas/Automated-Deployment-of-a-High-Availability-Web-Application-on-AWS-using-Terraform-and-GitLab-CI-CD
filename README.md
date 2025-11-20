@@ -23,6 +23,20 @@ Here is the architecture our Terraform code builds automatically:
 <img width="735" height="940" alt="Untitled diagram _ Mermaid Chart-2025-08-20-095743" src="https://github.com/user-attachments/assets/d0c11b89-8488-4603-b9aa-82eb6d681d5b" />
 
 
+<h1>Demo Result</h1>
+
+<img width="1349" height="380" alt="Screenshot 2025-08-20 153923" src="https://github.com/user-attachments/assets/8e647a5f-2e8b-4aee-97e0-d5765a62399b" />
+
+<img width="1351" height="637" alt="Screenshot 2025-08-20 154016" src="https://github.com/user-attachments/assets/3f11c475-5814-4c56-8841-2768668372b9" />
+
+<img width="1352" height="668" alt="image" src="https://github.com/user-attachments/assets/9b35f2ec-953c-4fcd-9e85-501d6820861f" />
+
+<img width="1365" height="681" alt="image" src="https://github.com/user-attachments/assets/da4458d3-0831-4f03-9139-fb813ada17b4" />
+
+
+
+
+
 
 
 
